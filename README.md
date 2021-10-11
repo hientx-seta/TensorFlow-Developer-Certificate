@@ -1,4 +1,4 @@
-# TensorFlow-Developer-Certificate
+# TensorFlow Developer Certificate
 Repository for TensorFlow Developer Certificate 
 
 [https://www.tensorflow.org/certificate]()
