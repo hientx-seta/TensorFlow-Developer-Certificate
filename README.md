@@ -30,7 +30,7 @@ Course on Udacity (Free, Timeline: 2 months, Skill Level: intermediate)
 ### Info and Purchase
 
 You have 6 months from the date of purchasing the exam to take the exam before your purchase expires.
-You must register and pay for eachexam attempt. You must wait 14 days to do the 2nd, if you don't pass the 1st time, 2 months after 2nd time and 1 year after 3th time.
+You must register and pay for eachexam attempt. You must wait 14 days to do the 2nd test, if you don't pass the 1st one, 2 months after the 2nd one and 1 year after 3th one.
 
 Purchase here (Requires Google Account): 
 [https://app.trueability.com/google-certificates/tensorflow-developer](https://app.trueability.com/google-certificates/tensorflow-developer)
