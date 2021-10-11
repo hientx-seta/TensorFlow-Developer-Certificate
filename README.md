@@ -7,6 +7,7 @@ Fee: $100 USD | Duration: 5 hours
 
 Candidate Handbook
 [https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf)
+
 Resources
 https://www.tensorflow.org/resources/learn-ml
 
