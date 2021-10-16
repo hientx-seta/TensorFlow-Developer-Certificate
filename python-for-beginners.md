@@ -4,9 +4,9 @@
 
 * Code labs [Classifying Images of Clothing](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l03c01_classifying_images_of_clothing.ipynb#scrollTo=jYysdyb-CaWM)
 
-* [Dense layer](https://www.youtube.com/watch?v=lYC2rHBYcCI&t=2s)
-
 * [What is Machine Learning?](https://www.youtube.com/watch?v=UxKbUwj5hmU&t=106s)
+
+* [Dense layer](https://www.youtube.com/watch?v=lYC2rHBYcCI&t=2s)
 
 * [Neural Network](https://www.youtube.com/watch?v=kwiMF2XH0T0)
 
