@@ -1,10 +1,10 @@
-* Code labs: [Introduce Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb#scrollTo=vIgmFZq4zszl)
+* Code labs: [Introduce Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb#scrollTo=vIgmFZq4zszl) - [Video](https://www.youtube.com/watch?v=xp7DGVGf8_c)
 
-* Code labs [The Basics: Training Your First Model](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb#scrollTo=gg4pn6aI1vms)
+* Code labs [The Basics: Training Your First Model](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb#scrollTo=gg4pn6aI1vms) - [Video](https://www.youtube.com/watch?v=o7U-ELsI0FE&t=3s)
 
-* Code labs [Classifying Images of Clothing](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l03c01_classifying_images_of_clothing.ipynb#scrollTo=jYysdyb-CaWM)
+* Code labs [Classifying Images of Clothing](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l03c01_classifying_images_of_clothing.ipynb#scrollTo=jYysdyb-CaWM) - [Video](https://www.youtube.com/watch?v=o7U-ELsI0FE)
 
-* Code labs [Image Classification with Convolutional Neural Networks](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l04c01_image_classification_with_cnns.ipynb#scrollTo=jYysdyb-CaWM)
+* Code labs [Image Classification with Convolutional Neural Networks](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l04c01_image_classification_with_cnns.ipynb#scrollTo=jYysdyb-CaWM) - [Video](https://www.youtube.com/watch?v=niylIkhErZo)
 
 * Video [What is Machine Learning?](https://www.youtube.com/watch?v=UxKbUwj5hmU&t=106s)
 
@@ -17,6 +17,8 @@
 * Video [Convolutions](https://www.youtube.com/watch?v=sAPg-qaT0b4)
 
 * Video [Max Pooling](https://www.youtube.com/watch?v=o_DJ-FO6dw0)
+
+* [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 
 
 ### Some Machine Learning terminology
