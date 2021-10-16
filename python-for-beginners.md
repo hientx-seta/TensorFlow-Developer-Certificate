@@ -4,13 +4,20 @@
 
 * Code labs [Classifying Images of Clothing](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l03c01_classifying_images_of_clothing.ipynb#scrollTo=jYysdyb-CaWM)
 
-* [What is Machine Learning?](https://www.youtube.com/watch?v=UxKbUwj5hmU&t=106s)
+* Code labs [Image Classification with Convolutional Neural Networks](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l04c01_image_classification_with_cnns.ipynb#scrollTo=jYysdyb-CaWM)
 
-* [Dense layer](https://www.youtube.com/watch?v=lYC2rHBYcCI&t=2s)
+* Video [What is Machine Learning?](https://www.youtube.com/watch?v=UxKbUwj5hmU&t=106s)
 
-* [Neural Network](https://www.youtube.com/watch?v=kwiMF2XH0T0)
+* Video [Dense layer](https://www.youtube.com/watch?v=lYC2rHBYcCI&t=2s)
+
+* Video [Neural Network](https://www.youtube.com/watch?v=kwiMF2XH0T0)
 
 * [Rectified Linear Units (ReLU) in Deep Learning](https://www.kaggle.com/dansbecker/rectified-linear-units-relu-in-deep-learning)
+
+* Video [Convolutions](https://www.youtube.com/watch?v=sAPg-qaT0b4)
+
+* Video [Max Pooling](https://www.youtube.com/watch?v=o_DJ-FO6dw0)
+
 
 ### Some Machine Learning terminology
 celsius_q    = np.array([-40, -10,  0,  8, 15, 22,  38],  dtype=float)
@@ -39,6 +46,16 @@ fahrenheit_a = np.array([-40,  14, 32, 46, 59, 72, 100],  dtype=float)
  - **ReLUs** : An activation function that allows a model to solve nonlinear problems
  - **Softmax** : A function that provides probabilities for each possible output class
  - **Classification** : A machine learning model used for distinguishing among two or more output categories
+ - **The Conv2D layer** : also has kernels (filters) whose values need to be tuned as well. So, in a Conv2D layer the values inside the filter matrix are the variables that get tuned in order to produce the right output.
+ - **CNNs** : Convolutional neural network. That is, a network which has at least one convolutional layer. A typical CNN also includes other types of layers, such as pooling layers and dense layers.
+ - **Convolution** : The process of applying a kernel (filter) to an image
+ - **Kernel / filter** : A matrix which is smaller than the input, used to transform the input into chunks
+ - **Padding** : Adding pixels of some value, usually 0, around the input image
+ - **Pooling**  The process of reducing the size of an image through downsampling.There are several types of pooling layers. For example, average pooling converts many values into a single value by taking the average. However, maxpooling is the most common.
+ - **Maxpooling** : A pooling process in which many values are converted into a single value by taking the maximum value from among them.
+ - **Stride** : the number of pixels to slide the kernel (filter) across the image.
+ - **Downsampling** : The act of reducing the size of an image
+
 
 
 
