@@ -8,6 +8,10 @@
 
 * Code labs [Cats and Dogs](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l04c01_image_classification_with_cnns.ipynb#scrollTo=gut8A_7rCaW6) - [Video](https://www.youtube.com/watch?v=bBDN6-WmRO8&t=2s)
 
+* Code labs [Cats and Dogs with Data Augmentation](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l05c01_dogs_vs_cats_without_augmentation.ipynb) - [Video](https://www.youtube.com/watch?v=dZFcEhwZMLM)
+
+
+
 * Video [What is Machine Learning?](https://www.youtube.com/watch?v=UxKbUwj5hmU&t=106s)
 
 * Video [Dense layer](https://www.youtube.com/watch?v=lYC2rHBYcCI&t=2s)
