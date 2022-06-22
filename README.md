@@ -22,6 +22,7 @@ https://www.tensorflow.org/resources/learn-ml
 
 ### Courses
 FreeCodeCamp
+
 https://www.youtube.com/watch?v=tPYj3fFJGjk&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s
 
 DeepLearning.AI TensorFlow Developer Professional Certificate
