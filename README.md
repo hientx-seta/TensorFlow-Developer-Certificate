@@ -21,6 +21,9 @@ https://www.tensorflow.org/resources/learn-ml
 * Time series, sequences and predictions: Train, tune, time series learning, forecasting, features, labels, sequence bias
 
 ### Courses
+FreeCodeCamp
+https://www.youtube.com/watch?v=tPYj3fFJGjk&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s
+
 DeepLearning.AI TensorFlow Developer Professional Certificate
 
 [https://www.coursera.org/professional-certificates/tensorflow-in-practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
